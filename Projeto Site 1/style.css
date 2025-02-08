@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: url(img/foto\ fundo.png);
+    
+}
+.Titulo01{
+    font-size: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+.Texto01{
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+
+div{
+    text-align:center;
+}
