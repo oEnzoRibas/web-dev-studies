@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    margin: 0%;
+    background-color: violet;
+}
+
+#titulo{    
+    align-items: center;
+    color: azure;
+}
+
+#top_bar{
+    background-color: rgb(10, 96, 146);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 1%;
+    font-size: 22px;
+}
+
+#falaDoDia{
+    
+}
+
+.fontDf{
+    font-family: 'Indie Flower',normal;
+}
+
+.txt_top_bar{
+    padding-right: 2%;
+}
+
+#lateral_bar{
+    background-color: rgb(50, 164, 205);
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 100%;
+    width: 100px;
+    position: absolute;
+
+}
+

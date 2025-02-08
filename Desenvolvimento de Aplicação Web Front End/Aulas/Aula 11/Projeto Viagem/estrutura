@@ -1,0 +1,14 @@
+Estrutura Projeto Viaje Mais:
+--------------------------------------
+
+Viaje Mais\
+    css\
+          style.css
+    img\
+        campo.jpg
+        capa.jpg
+        congresso.jpg
+        praia.jpg
+    js\
+        script.js
+index.html
